@@ -1,0 +1,3 @@
+.DS_Store
+data/mnist_images.json
+data/mnist_labels.json
